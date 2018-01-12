@@ -1,0 +1,18 @@
+{
+    "name": "loprym/cacher",
+    "type": "library",
+    "description": "Extension for Nette\\Caching with Storage selection.",
+    "keywords": ["nette","cache"],
+    "homepage": "https://github.com/loprym/Cacher",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "loprym",
+            "email": "loprym@gmail.com",
+	    "role": "Developer"
+        }
+    ],
+    "require": {
+        "nette/di": "v2.4.10"
+    }
+}
